@@ -12,8 +12,6 @@
 
 你同样需要安装好相应软件使之能够运行 [iPython Notebook](http://ipython.org/notebook.html)
 
-优达学城推荐学生安装[Anaconda](https://www.continuum.io/downloads), 这是一个已经打包好的python发行版，它包含了我们这个项目需要的所有的库和软件。
-
 ### 代码
 
 初始代码包含在`finding_donors.ipynb`这个notebook文件中。你还会用到`visuals.py`和名为`census.csv`的数据文件来完成这个项目。我们已经为你提供了一部分代码，但还有些功能需要你来实现才能以完成这个项目。
